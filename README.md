@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tulkinov Akbarali</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
-- 🔭 I’m currently working on **Auto-Taxi**
+- 🔭 I’m currently working on **Dream**
 
 - 💬 Ask me about **Python, Django**
 
