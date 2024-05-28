@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dream**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Nginx, Gunicorn, Docker, Celery**
 
 - 📫 How to reach me **tulkinovali@gmail.com**
 
